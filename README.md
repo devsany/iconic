@@ -70,13 +70,12 @@ import * as Icons from 'react-iconic';
 
 The `react-iconic` library provides a set of icons that can be customized via props.
 
-| Prop        | Type          | Description                                    | Default Value |
-| ----------- | ------------- | ---------------------------------------------- | ------------- |
-| `width`     | string/number | Sets the width of the icon.                    | 24            |
-| `height`    | string/number | Sets the height of the icon.                   | 24            |
-| `fill`      | string        | Sets the color of the icon (CSS valid colors). | black         |
-| `className` | string        | Adds custom CSS classes to the icon.           | undefined     |
-| `style`     | object        | Inline styles for the icon.                    | undefined     |
+| Prop        | Type   | Description                                    | Default Value |
+| ----------- | ------ | ---------------------------------------------- | ------------- |
+| `Size`      | number | Sets the width of the icon.                    | 24            |
+| `fill`      | string | Sets the color of the icon (CSS valid colors). | black         |
+| `className` | string | Adds custom CSS classes to the icon.           | undefined     |
+| `style`     | object | Inline styles for the icon.                    | undefined     |
 
 ### Icon Props
 
