@@ -1,6 +1,6 @@
 import React from "react";
 
-const BarsFrom = ({ size = 24, color = "currentColor" }) => (
+const Battery = ({ size = 24, color = "currentColor" }) => (
   <svg
     class="w-6 h-6 text-gray-800 dark:text-white"
     aria-hidden="true"
@@ -20,4 +20,4 @@ const BarsFrom = ({ size = 24, color = "currentColor" }) => (
   </svg>
 );
 
-export default BarsFrom;
+export default Battery;
