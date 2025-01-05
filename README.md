@@ -46,7 +46,7 @@ function App() {
   return (
     <div>
       <h1>Welcome to React Iconic</h1>
-      <Cart width="50" height="50" />
+      <Cart size={24} />
     </div>
   );
 }
@@ -91,9 +91,9 @@ Each icon supports the following props:
 ### Example of Usage:
 
 ```bash
-<Cart width="50" height="50" fill="#FF6347" />
-<Todo width="40" height="40" fill="blue" className="custom-icon" />
-<ShoppingCart width="60" height="60" fill="green" style={{ borderRadius: '50%' }} />
+<Cart size={24} fill="#FF6347" />
+<Todo size={24} fill="blue" className="custom-icon" />
+<ShoppingCart size={24} fill="green" style={{ borderRadius: '50%' }} />
 ```
 
 ## Customization
@@ -128,9 +128,9 @@ function App() {
     <div>
       <h1>React Iconic Library</h1>
       <div>
-        <Cart width="50" height="50" fill="#FF6347" />
-        <Todo width="40" height="40" fill="blue" />
-        <ShoppingCart width="60" height="60" fill="green" />
+        <Cart size={24} fill="#FF6347" />
+        <Todo size={24} fill="blue" />
+        <ShoppingCart size={24} fill="green" />
       </div>
     </div>
   );

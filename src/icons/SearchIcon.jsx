@@ -12,4 +12,4 @@ const SearchIcon = ({ size = 24, color = "currentColor" }) => (
   </svg>
 );
 
-export default SearchIcon;
+export default SearchIcon; 
