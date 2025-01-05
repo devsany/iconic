@@ -166,5 +166,3 @@ We welcome contributions from the community! To contribute to `react-iconic`, fo
 
 - Initial release of `react-iconic` with a collection of basic icons.
   markdown
-
- 
