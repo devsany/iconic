@@ -1,7 +1,6 @@
-// ArrowRightCoverLeft
 import React from "react";
 
-const ArrowRightCoverLeft = ({ size = 24, color = "currentColor" }) => (
+const ArrowCorner = ({ size = 24, color = "currentColor" }) => (
   <svg
     class="w-6 h-6 text-gray-800 dark:text-white"
     aria-hidden="true"
@@ -16,9 +15,9 @@ const ArrowRightCoverLeft = ({ size = 24, color = "currentColor" }) => (
       stroke-linecap="round"
       stroke-linejoin="round"
       stroke-width="2"
-      d="M20 12H8m12 0-4 4m4-4-4-4M9 4H7a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h2"
+      d="M18 14v4.833A1.166 1.166 0 0 1 16.833 20H5.167A1.167 1.167 0 0 1 4 18.833V7.167A1.166 1.166 0 0 1 5.167 6h4.618m4.447-2H20v5.768m-7.889 2.121 7.778-7.778"
     />
   </svg>
 );
 
-export default ArrowRightCoverLeft;
+export default ArrowCorner;
