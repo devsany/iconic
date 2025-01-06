@@ -292,6 +292,80 @@ The `react-iconic` library provides a set of icons that can be customized via pr
 | Dribbble          | Icon for Dribbble                | Social Media     |
 | Dropbox           | Icon for Dropbox                 | Cloud Storage    |
 
+### Start with letter 'E'
+
+| **Icon Name**       | **Description**                     | **Category**       |
+| ------------------- | ----------------------------------- | ------------------ |
+| Edit                | Icon for editing                    | Tools              |
+| EditOutline         | Outline version of edit icon        | Tools              |
+| Envelope            | Icon for a closed envelope          | Communication      |
+| EnvelopeOpen        | Icon for an open envelope           | Communication      |
+| EnvelopeOpenOutline | Outline version of open envelope    | Communication      |
+| EnvelopeOutline     | Outline version of envelope         | Communication      |
+| Euro                | Icon for a euro currency symbol     | Finance            |
+| Exclamation         | Icon for an exclamation mark        | Alerts/Warnings    |
+| ExclamationOutline  | Outline version of exclamation mark | Alerts/Warnings    |
+| Expand              | Icon for expanding                  | UI Elements        |
+| Eye                 | Icon for a visible eye              | Visibility/Privacy |
+| EyeOutline          | Outline version of visible eye      | Visibility/Privacy |
+| EyeSlash            | Icon for an invisible eye           | Visibility/Privacy |
+| EyeSlashOutline     | Outline version of invisible eye    | Visibility/Privacy |
+
+### Start with letter 'F'
+
+| **Icon Name**         | **Description**                             | **Category**         |
+| --------------------- | ------------------------------------------- | -------------------- |
+| Facebook              | Icon for Facebook                           | Social Media         |
+| FaceExplode           | Icon depicting an exploding face            | Emotions/Expressions |
+| FaceExplodeOutline    | Outline version of exploding face           | Emotions/Expressions |
+| FaceGrin              | Icon for a grinning face                    | Emotions/Expressions |
+| FaceGrinOutline       | Outline version of grinning face            | Emotions/Expressions |
+| FaceGrinStar          | Icon for a grinning face with stars         | Emotions/Expressions |
+| FaceGrinStarOutline   | Outline version of grinning face with stars | Emotions/Expressions |
+| FaceLaugh             | Icon for a laughing face                    | Emotions/Expressions |
+| FaceLaughOutline      | Outline version of laughing face            | Emotions/Expressions |
+| File                  | Generic file icon                           | Files/Storage        |
+| FileChartBar          | File icon with a chart bar                  | Analytics            |
+| FileChartBarOutline   | Outline version of file with chart bar      | Analytics            |
+| FileCheck             | File with a check mark                      | Files/Storage        |
+| FileCheckOutline      | Outline version of file with a check mark   | Files/Storage        |
+| FileCirclePlus        | File with a plus in a circle                | Files/Storage        |
+| FileCirclePlusOutline | Outline version of file with a circle plus  | Files/Storage        |
+| FileClone             | Cloned file icon                            | Files/Storage        |
+| FileCloneAlt          | Alternate cloned file icon                  | Files/Storage        |
+| FileCloneAltOutline   | Outline version of alternate cloned file    | Files/Storage        |
+| FileCloneCurve        | File clone with a curved design             | Files/Storage        |
+| FileCloneCurveOutline | Outline version of file clone curve         | Files/Storage        |
+| FileCopy              | Icon for copying files                      | Files/Storage        |
+| FileCsv               | Icon for CSV file format                    | Files/Storage        |
+| FileCsvOutline        | Outline version of CSV file format          | Files/Storage        |
+| FileDoc               | Icon for Word document files                | Files/Storage        |
+| FileDocOutline        | Outline version of Word document files      | Files/Storage        |
+| FileExport            | Icon for exporting files                    | Files/Storage        |
+| FileImage             | File with an image icon                     | Files/Storage        |
+| FileMusic             | File with a music note                      | Files/Storage        |
+| FilePdf               | Icon for PDF files                          | Files/Storage        |
+| FilePen               | File with a pen icon                        | Files/Storage        |
+| FilePptOutline        | Outline version of PowerPoint files         | Files/Storage        |
+| FileSearch            | Icon for file search                        | Files/Storage        |
+| FileShield            | File with a shield icon                     | Security             |
+| FileVideo             | File with a video icon                      | Files/Storage        |
+| FileWord              | Icon for Word files                         | Files/Storage        |
+| FileZip               | Icon for ZIP files                          | Files/Storage        |
+| Filter                | Generic filter icon                         | Tools                |
+| FilterDollar          | Filter with dollar symbol                   | Finance              |
+| Fingerprint           | Icon for fingerprint                        | Security             |
+| Fire                  | Icon depicting fire                         | Alerts/Warnings      |
+| FloppyDisk            | Icon for floppy disk                        | Files/Storage        |
+| Folder                | Generic folder icon                         | Files/Storage        |
+| FolderArrow           | Folder with an arrow                        | Files/Storage        |
+| FolderOpen            | Icon for an open folder                     | Files/Storage        |
+| FolderPlus            | Folder with a plus                          | Files/Storage        |
+| FontColor             | Icon for font color                         | Text Formatting      |
+| FontHighlight         | Icon for font highlight                     | Text Formatting      |
+| Forward               | Generic forward icon                        | Navigation           |
+| ForwardStep           | Step forward icon                           | Navigation           |
+
 > **Note**: This is a sample of the icons listed. You can expand the table to include all icons from your project with their respective descriptions and categories.
 
 ### Icon Props
