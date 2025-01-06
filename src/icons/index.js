@@ -176,8 +176,21 @@ export { default as CreditCardPlusOutline } from "./CreditCardPlusOutline";
 export { default as CreditCardPlusAlt } from "./CreditCardPlusAlt";
 export { default as CreditCardPlusAltOutline } from "./CreditCardPlusAltOutline";
 export { default as Css } from "./Css";
-export { default as CirclePauseSolid } from "./CirclePauseSolid";
-export { default as CirclePauseSolid } from "./CirclePauseSolid";
-// export { default as CaretUpDown } from "./CaretUpDown"
-
-// export { default as CaretUpDown } from "./CaretUpDown";
+export { default as Database } from "./Database";
+export { default as DatabaseOutline } from "./DatabaseOutline";
+export { default as DeleteColumn } from "./DeleteColumn";
+export { default as DeleteRow } from "./DeleteRow";
+export { default as DeleteTable } from "./DeleteTable";
+export { default as DesktopPc } from "./DesktopPc";
+// export { default as DesktopPcOutline } from "./DesktopPcOutline";
+export { default as Discord } from "./Discord";
+export { default as Dna } from "./Dna";
+export { default as Dollar } from "./Dollar";
+export { default as DotsHorizontal } from "./DotsHorizontal";
+export { default as DotVertical } from "./DotVertical";
+export { default as Download } from "./Download";
+export { default as DownloadOutline } from "./DownloadOutline";
+export { default as DrawSquare } from "./DrawSquare";
+export { default as DrawSquareOutline } from "./DrawSquareOutline";
+export { default as Dribbble } from "./Dribbble";
+export { default as Dropbox } from "./Dropbox";
