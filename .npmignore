@@ -1,64 +1,62 @@
-# Node modules - Exclude the node_modules folder as dependencies will be installed by npm
+# Node modules - Exclude the node_modules folder
 node_modules/
 
-# Build and distribution folders - These are auto-generated and don't need to be included
+# Build and distribution folders - Keep only dist for publishing
 build/
-dist/
 
-# Configuration files - Exclude config files that are project or environment specific
-*.config.js
-*.json
+# Configuration files - Exclude development configuration files
+webpack.config.js
 
-# Ignore IDE/editor specific files
+# IDE/editor-specific files
 .vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
 
-# Test files - Usually, test files are for development purposes and not needed in the package
+# Test files - Exclude test-related files
 tests/
 test/
 *.spec.js
 *.test.js
 
-# Ignore all source maps (optional, only if you generate them)
+# Ignore source maps (optional)
 *.map
 
-# Log files - Temporary or system-generated files should not be published
+# Log files - Temporary/system-generated files
 *.log
 *.swp
 *.bak
 
-# Environment files - Sensitive information should not be included in the npm package
+# Environment files - Sensitive information
 .env
 .env.local
 .env.*.local
 
-# Operating system-specific files
-.DS_Store   # macOS system file
-Thumbs.db   # Windows system file
+# OS-specific files
+.DS_Store
+Thumbs.db
 
-# Package lock file (optional, depending on your project type)
-package-lock.json
-
-# Ignore temporary or backup files (optional)
+# Temporary or backup files
 *.swp
 *.bak
 *.tmp
 
-# Documentation files (optional, if you don't want to include them)
-README.md
+# Documentation files - Keep README.md (important for NPM package description)
 LICENSE
 CHANGELOG.md
 
-# Ignore image files or other assets (if not needed)
-*.jpg
-*.jpeg
-*.png
-*.gif
-
-# Ignore specific directory or file patterns (adjust as needed)
+# Static assets (optional, depending on use case)
 public/
 static/
 assets/
- 
+
+# Do not exclude src folder (needed for building and library use)
+!src/
+!src/icons/
+!src/index.js
+
+# Include only the dist folder for the final build
+!dist/
+
+# Exclude package-lock.json (optional)
+package-lock.json

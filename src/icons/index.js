@@ -1,6 +1,4 @@
-export { default as HomeIcon } from "./HomeIcon";
-export { default as SearchIcon } from "./SearchIcon";
-export { default as AddColumn } from "./AddColumn";
+export { default as AddColumnIcon } from "./AddColumnIcon";
 export { default as AddColumnLeft } from "./AddColumnLeft";
 export { default as AddressBook } from "./AddressBook";
 export { default as AddressBookOutline } from "./AddressBookOutline";
@@ -138,5 +136,9 @@ export { default as ChevronUp } from "./ChevronUp";
 export { default as CircleMinus } from "./CircleMinus";
 export { default as CircleMinusOutline } from "./CircleMinusOutline";
 export { default as CirclePause } from "./CirclePause";
-// export { default as CaretUpDown } from "./CaretUpDown";
+export { default as HomeIcon } from "./HomeIcon";
+export { default as SearchIcon } from "./SearchIcon";
+export { default as CirclePauseSolid } from "./CirclePauseSolid";
+// export { default as CaretUpDown } from "./CaretUpDown"
+
 // export { default as CaretUpDown } from "./CaretUpDown";

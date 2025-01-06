@@ -13,7 +13,7 @@
 - [Styling](#styling)
 - [Contributing](#contributing)
 - [License](#license)
-- [Changelog](#changelog)
+- [Working](#working)
 
 ## Features
 
@@ -142,7 +142,7 @@ export default App;
 
 We welcome contributions from the community! To contribute to `react-iconic`, follow these steps:
 
-1.  Fork this repository.
+1.  Fork this repository. [github-link](https://github.com/devsany/iconic.git)
     Create a new branch for your feature or bug fix.
 2.  Write tests for your changes (if applicable).
 3.  Make your changes.
@@ -153,15 +153,10 @@ We welcome contributions from the community! To contribute to `react-iconic`, fo
 
 `react-iconic` is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Changelog
+## Working
 
-### v1.0.5
+If not working. Restart you application again.
 
-- Added new icons for Cart, Todo, and ShoppingCart.
-- Improved the build process using Webpack for better performance.
-- Fixed bugs related to icon rendering.
-
-### v1.0.0
-
-- Initial release of `react-iconic` with a collection of basic icons.
-  markdown
+<div align="center">
+  <h6>Thank you Everyone, Work in progress💙</h6>
+</div>
