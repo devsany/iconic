@@ -1,0 +1,22 @@
+import React from "react";
+
+const ShareNodesOutline = ({ size = 24, color = "currentColor" }) => (
+  <svg
+    className="w-6 h-6 text-gray-800 dark:text-white"
+    aria-hidden="true"
+    xmlns="http://www.w3.org/2000/svg"
+    width={size}
+    height={size}
+    fill="none"
+    viewBox="0 0 24 24"
+  >
+    <path
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-width="2"
+      d="M7.926 10.898 15 7.727m-7.074 5.39L15 16.29M8 12a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm12 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm0-11a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"
+    />
+  </svg>
+);
+
+export default ShareNodesOutline;

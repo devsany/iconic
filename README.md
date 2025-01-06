@@ -366,6 +366,245 @@ The `react-iconic` library provides a set of icons that can be customized via pr
 | Forward               | Generic forward icon                        | Navigation           |
 | ForwardStep           | Step forward icon                           | Navigation           |
 
+### Start with letter 'G'
+
+| **Icon Name**   | **Description**                                 | **Category** |
+| --------------- | ----------------------------------------------- | ------------ |
+| GiftBox         | Icon representing a gift box                    | Objects      |
+| GiftBoxOutline  | Outline version of a gift box icon              | Objects      |
+| Github          | Icon for the GitHub platform                    | Brands       |
+| Gitlab          | Icon for the GitLab platform                    | Brands       |
+| Globe           | Icon representing a globe                       | Navigation   |
+| GlobeOutline    | Outline version of a globe icon                 | Navigation   |
+| Google          | Icon for the Google platform                    | Brands       |
+| GoToNext        | Icon indicating navigation to the next item     | Navigation   |
+| GoToPrev        | Icon indicating navigation to the previous item | Navigation   |
+| Grid            | Icon representing a grid                        | Layout       |
+| GridOutline     | Outline version of a grid icon                  | Layout       |
+| GridPlus        | Icon representing a grid with a plus sign       | Layout       |
+| GridPlusOutline | Outline version of grid with a plus sign        | Layout       |
+
+### Start with letter 'H'
+
+| **Icon Name**     | **Description**                                 | **Category**        |
+| ----------------- | ----------------------------------------------- | ------------------- |
+| Image             | Icon representing an image                      | Media               |
+| ImageOutline      | Outline version of an image icon                | Media               |
+| Inbox             | Icon representing an inbox                      | Communication       |
+| InboxFull         | Icon for a full inbox                           | Communication       |
+| InboxFullOutline  | Outline version of a full inbox icon            | Communication       |
+| InboxOutline      | Outline version of an inbox icon                | Communication       |
+| Indent            | Icon representing an indentation                | Text Editing        |
+| IndentOutline     | Outline version of an indentation icon          | Text Editing        |
+| Infocircle        | Icon for an informational circle                | General Information |
+| InfocircleOutline | Outline version of an informational circle icon | General Information |
+| InsertRow         | Icon for inserting a row                        | Table Management    |
+| InsertRowDown     | Icon for inserting a row downward               | Table Management    |
+| InsertTable       | Icon representing a table                       | Table Management    |
+| InsertTablePlus   | Icon for adding a new table                     | Table Management    |
+| Instagram         | Icon for the Instagram platform                 | Social Media        |
+
+### Start with letter 'K'
+
+| **Icon Name**   | **Description**                    | **Category**  |
+| --------------- | ---------------------------------- | ------------- |
+| Keyboard        | Icon representing a keyboard       | Input Devices |
+| KeyboardOutline | Outline version of a keyboard icon | Input Devices |
+
+### Start with letter 'L'
+
+| **Icon Name**    | **Description**                             | **Category**        |
+| ---------------- | ------------------------------------------- | ------------------- |
+| Label            | Icon representing a label                   | UI Elements         |
+| LabelOutline     | Outline version of a label icon             | UI Elements         |
+| Landmark         | Icon representing a landmark                | Navigation/Places   |
+| LandmarkOutline  | Outline version of a landmark icon          | Navigation/Places   |
+| Language         | Icon representing language                  | General             |
+| Laravel          | Icon for the Laravel framework              | Brands              |
+| LayersOutline    | Outline version of layers icon              | Layout              |
+| LetterBold       | Icon for bold text                          | Text Formatting     |
+| LetterItalic     | Icon for italic text                        | Text Formatting     |
+| LetterUnderline  | Icon for underlined text                    | Text Formatting     |
+| LifeSaver        | Icon representing a lifesaver               | Safety              |
+| LifeSaverOutline | Outline version of a lifesaver icon         | Safety              |
+| LightBulb        | Icon representing a light bulb              | Ideas/Concepts      |
+| LightBulbOutline | Outline version of a light bulb icon        | Ideas/Concepts      |
+| Link             | Icon representing a link                    | Connectivity        |
+| LinkBreak        | Icon for a broken link                      | Connectivity        |
+| LinkedIn         | Icon for the LinkedIn platform              | Social Media        |
+| List             | Icon representing a list                    | Layout/Organization |
+| ListMusic        | Icon for a music playlist                   | Media               |
+| ListMusicOutline | Outline version of a music playlist icon    | Media               |
+| Lock             | Icon representing a locked state            | Security            |
+| LockOpen         | Icon for an unlocked state                  | Security            |
+| LockOpenOutline  | Outline version of an unlocked icon         | Security            |
+| LockOutline      | Outline version of a lock icon              | Security            |
+| LockTime         | Icon representing a lock with a timer       | Security            |
+| LockTimeOutline  | Outline version of a lock with a timer icon | Security            |
+
+### Start with letter 'M'
+
+| **Icon Name**         | **Description**                                 | **Category**      |
+| --------------------- | ----------------------------------------------- | ----------------- |
+| Mailbox               | Icon representing a mailbox                     | Communication     |
+| MailboxOutline        | Outline version of a mailbox icon               | Communication     |
+| MapPin                | Icon representing a location pin                | Navigation/Places |
+| MapPinAlt             | Alternative version of a location pin icon      | Navigation/Places |
+| MapPinAltOutline      | Outline version of the alternative location pin | Navigation/Places |
+| MapPinOutline         | Outline version of a location pin icon          | Navigation/Places |
+| Mastercard            | Icon for the Mastercard payment platform        | Brands            |
+| Mergecells            | Icon representing merged table cells            | Table Management  |
+| MergecellsSplit       | Icon for splitting merged table cells           | Table Management  |
+| Message               | Icon representing a message                     | Communication     |
+| MessageDots           | Icon for a message with typing dots             | Communication     |
+| MessageDotsOutline    | Outline version of a message with typing dots   | Communication     |
+| MessageOutline        | Outline version of a message icon               | Communication     |
+| Messages              | Icon representing multiple messages             | Communication     |
+| MessagesOutline       | Outline version of the multiple messages icon   | Communication     |
+| Microphone            | Icon representing a microphone                  | Audio             |
+| MicrophoneMute        | Icon for a muted microphone                     | Audio             |
+| MicrophoneMuteOutline | Outline version of a muted microphone icon      | Audio             |
+| MicrophoneOutline     | Outline version of a microphone icon            | Audio             |
+| Minimize              | Icon for minimizing a window or section         | UI Elements       |
+| Minus                 | Icon representing a minus or subtraction sign   | UI Elements       |
+| MobilePhone           | Icon representing a mobile phone                | Devices           |
+| MobilePhoneOutline    | Outline version of a mobile phone icon          | Devices           |
+| MongoDB               | Icon for the MongoDB database platform          | Brands            |
+| Moon                  | Icon representing the moon                      | Nature            |
+| MoonOutline           | Outline version of the moon icon                | Nature            |
+
+### Start with letter 'N'
+
+| **Icon Name**    | **Description**                         | **Category**       |
+| ---------------- | --------------------------------------- | ------------------ |
+| Newspaper        | Icon representing a newspaper           | Media/News         |
+| NewspaperOutline | Outline version of a newspaper icon     | Media/News         |
+| Npm              | Icon for the Node Package Manager (npm) | Brands/Development |
+
+### Start with letter 'O'
+
+| **Icon Name**       | **Description**                               | **Category**    |
+| ------------------- | --------------------------------------------- | --------------- |
+| ObjectColumn        | Icon representing a column layout for objects | Layout/Design   |
+| ObjectColumnOutline | Outline version of the column layout icon     | Layout/Design   |
+| OpenDoor            | Icon representing an open door                | Objects         |
+| OpenDoorOutline     | Outline version of the open door icon         | Objects         |
+| OrderedList         | Icon for an ordered (numbered) list           | Text Formatting |
+| Outdent             | Icon representing outdented text              | Text Formatting |
+| OutdentOutline      | Outline version of the outdented text icon    | Text Formatting |
+
+### Start with letter 'P'
+
+| **Icon Name**      | **Description**                              | **Category**     |
+| ------------------ | -------------------------------------------- | ---------------- |
+| Palette            | Icon representing an artist's palette        | Art/Design       |
+| PaletteOutline     | Outline version of an artist's palette icon  | Art/Design       |
+| PaperClip          | Icon for a paperclip                         | Tools/Objects    |
+| PaperPlane         | Icon for a paper plane                       | Communication    |
+| PaperPlaneOultine  | Outline version of a paper plane icon        | Communication    |
+| Paragraph          | Icon for a paragraph block                   | Text Formatting  |
+| ParagraphOutline   | Outline version of a paragraph block icon    | Text Formatting  |
+| Pause              | Icon representing a pause button             | Media Controls   |
+| PauseOutline       | Outline version of the pause button icon     | Media Controls   |
+| Pen                | Icon for a pen                               | Writing/Tools    |
+| PenNib             | Icon for a pen nib                           | Writing/Tools    |
+| PenOutline         | Outline version of the pen icon              | Writing/Tools    |
+| Phone              | Icon representing a phone                    | Communication    |
+| PhoneHang          | Icon for a hanging-up phone                  | Communication    |
+| PhoneHangOutline   | Outline version of the hanging-up phone icon | Communication    |
+| PhoneOutline       | Outline version of the phone icon            | Communication    |
+| Play               | Icon representing a play button              | Media Controls   |
+| PlayOutline        | Outline version of the play button icon      | Media Controls   |
+| Plus               | Icon for adding or increasing                | General/Actions  |
+| Printer            | Icon representing a printer                  | Tools/Objects    |
+| PrinterOutline     | Outline version of the printer icon          | Tools/Objects    |
+| ProfileCard        | Icon for a profile card                      | Identity/Profile |
+| ProfileCardOutline | Outline version of the profile card icon     | Identity/Profile |
+
+### Start with letter 'Q'
+
+| **Icon Name**         | **Description**                           | **Category**       |
+| --------------------- | ----------------------------------------- | ------------------ |
+| Qrcode                | Icon representing a QR code               | Technology/Tools   |
+| QuestionCircle        | Icon for a question circle                | Communication/Help |
+| QuestionCircleOutline | Outline version of a question circle icon | Communication/Help |
+| Quote                 | Icon for a quote or quotation             | Text Formatting    |
+| QuoteOutline          | Outline version of the quote icon         | Text Formatting    |
+
+### Start with letter 'R'
+
+| **Icon Name**        | **Description**                                | **Category**           |
+| -------------------- | ---------------------------------------------- | ---------------------- |
+| React                | Icon representing React                        | Technology/Framework   |
+| Receipt              | Icon for a receipt                             | Documents/Tools        |
+| ReceiptOutline       | Outline version of a receipt icon              | Documents/Tools        |
+| RectangleList        | Icon representing a list in a rectangular form | UI/Layouts             |
+| RectangleListOutline | Outline version of a rectangular list icon     | UI/Layouts             |
+| Reddit               | Icon representing Reddit                       | Social Media           |
+| Redo                 | Icon for redo action                           | Editing/Actions        |
+| Refresh              | Icon for refreshing                            | Media Controls/Actions |
+| Reply                | Icon for replying to a message                 | Communication          |
+| ReplyAll             | Icon for replying to all recipients            | Communication          |
+| ReplyAllOutline      | Outline version of the reply all icon          | Communication          |
+| ReplyOutline         | Outline version of the reply icon              | Communication          |
+| RestoreWindow        | Icon for restoring a window                    | UI/Windows             |
+| Rocket               | Icon for a rocket                              | Technology/Startup     |
+| RocketOutline        | Outline version of the rocket icon             | Technology/Startup     |
+| Ruler                | Icon for a ruler                               | Tools/Measurement      |
+
+### Start with letter 'S'
+
+| **Icon Name**       | **Description**                                    | **Category**              |
+| ------------------- | -------------------------------------------------- | ------------------------- |
+| SalePercent         | Icon for a sale percent                            | Shopping/Commerce         |
+| SalePercentOutline  | Outline version of the sale percent icon           | Shopping/Commerce         |
+| ScaleBalance        | Icon representing a scale balance                  | Finance/Tools             |
+| ScaleBalanceOutline | Outline version of the scale balance icon          | Finance/Tools             |
+| Search              | Icon for a search function                         | Actions/Search            |
+| SearchIcon          | Icon representing a magnifying search icon         | Actions/Search            |
+| SearchOutline       | Outline version of the search icon                 | Actions/Search            |
+| Server              | Icon for a server                                  | Technology/Networking     |
+| ServerOutline       | Outline version of the server icon                 | Technology/Networking     |
+| ShareAll            | Icon for sharing everything                        | Social/Sharing            |
+| ShareAllOutline     | Outline version of the share all icon              | Social/Sharing            |
+| ShareNodes          | Icon representing shared nodes                     | Social/Sharing/Networking |
+| ShareNodesOutline   | Outline version of the share nodes icon            | Social/Sharing/Networking |
+| Shield              | Icon for a shield                                  | Security/Protection       |
+| ShieldCheck         | Icon for a shield with a checkmark                 | Security/Protection       |
+| ShieldCheckOutline  | Outline version of the shield with checkmark       | Security/Protection       |
+| ShieldOutline       | Outline version of the shield icon                 | Security/Protection       |
+| ShoppingBagOutline  | Outline version of the shopping bag icon           | Shopping/Commerce         |
+| Shuffle             | Icon for shuffle action                            | Media Controls            |
+| Sort                | Icon for sorting items                             | UI/Controls               |
+| SortHorizontal      | Icon for horizontal sorting                        | UI/Controls               |
+| SplitCells          | Icon for splitting cells                           | UI/Tools                  |
+| Stackoverflow       | Icon representing StackOverflow                    | Technology/Community      |
+| Star                | Icon for a star                                    | Rating                    |
+| StarHalf            | Icon for a half star                               | Rating                    |
+| StarHalfOutline     | Outline version of the half star icon              | Rating                    |
+| StarHalfStar        | Icon for a half star with another half             | Rating                    |
+| StarHalfStarOutline | Outline version of the half star with another half | Rating                    |
+| StarOutline         | Outline version of the star icon                   | Rating                    |
+| Stop                | Icon for stop action                               | Media Controls            |
+| StopOutline         | Outline version of the stop icon                   | Media Controls            |
+| Store               | Icon representing a store                          | Shopping/Commerce         |
+| Subscript           | Icon for subscript text                            | Text Formatting           |
+| Sun                 | Icon for the sun                                   | Weather/Nature            |
+| SunOutline          | Outline version of the sun icon                    | Weather/Nature            |
+| SuperScript         | Icon for superscript text                          | Text Formatting           |
+| Swatchbook          | Icon for a swatchbook                              | Design/Colors             |
+| SwatchbookOutline   | Outline version of the swatchbook icon             | Design/Colors             |
+
+### Start with letter 'T'
+
+| **Icon Name**      | **Description**                          | **Category**     |
+| ------------------ | ---------------------------------------- | ---------------- |
+| TableColumn        | Icon for a table column                  | UI/Controls      |
+| TableColumnOutline | Outline version of the table column icon | UI/Controls      |
+| TableRow           | Icon for a table row                     | UI/Controls      |
+| Tshirt             | Icon for a t-shirt                       | Clothing/Fashion |
+| TshirtOutline      | Outline version of the t-shirt icon      | Clothing/Fashion |
+
 > **Note**: This is a sample of the icons listed. You can expand the table to include all icons from your project with their respective descriptions and categories.
 
 ### Icon Props
