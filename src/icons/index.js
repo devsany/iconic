@@ -296,4 +296,16 @@ export { default as Forward } from "./Forward";
 export { default as ForwardOutline } from "./ForwardOutline";
 export { default as ForwardStep } from "./ForwardStep";
 export { default as ForwardStepOutline } from "./ForwardStepOutline";
- 
+export { default as GiftBox } from "./GiftBox";
+export { default as GiftBoxOutline } from "./GiftBoxOutline";
+export { default as Github } from "./Github";
+export { default as Gitlab } from "./Gitlab";
+export { default as Globe } from "./Globe";
+export { default as GlobeOutline } from "./GlobeOutline";
+export { default as Google } from "./Google";
+export { default as GoToNext } from "./GoToNext";
+export { default as GoToPrev } from "./GoToPrev";
+export { default as Grid } from "./Grid";
+export { default as GridOutline } from "./GridOutline";
+export { default as GridPlus } from "./GridPlus";
+export { default as GridPlusOutline } from "./GridPlusOutline";
