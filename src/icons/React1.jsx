@@ -1,6 +1,6 @@
 import React from "react";
 
-const React = ({ size = 24, color = "currentColor" }) => (
+const React1 = ({ size = 24, color = "currentColor" }) => (
   <svg
     className="w-6 h-6 text-gray-800 dark:text-white"
     aria-hidden="true"
@@ -15,4 +15,4 @@ const React = ({ size = 24, color = "currentColor" }) => (
   </svg>
 );
 
-export default React;
+export default React1;

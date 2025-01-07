@@ -604,6 +604,115 @@ The `react-iconic` library provides a set of icons that can be customized via pr
 | TableRow           | Icon for a table row                     | UI/Controls      |
 | Tshirt             | Icon for a t-shirt                       | Clothing/Fashion |
 | TshirtOutline      | Outline version of the t-shirt icon      | Clothing/Fashion |
+| **Icon Name**      | **Description**                          | **Category**     |
+| ------------------ | ---------------------------------------- | ---------------- |
+| Tablet             | Icon for a tablet                        | Devices          |
+| TabletOutline      | Outline version of the tablet icon       | Devices          |
+| Tag                | Icon for a tag                           | UI/Controls      |
+| TagOutline         | Outline version of the tag icon          | UI/Controls      |
+| Tailwind           | Icon for the Tailwind logo               | Frameworks       |
+| TeddyBear          | Icon for a teddy bear                    | Toys             |
+| TeddyBearOutline   | Outline version of the teddy bear icon   | Toys             |
+| Terminal           | Icon for a terminal                      | Developer Tools  |
+| TerminalOutline    | Outline version of the terminal icon     | Developer Tools  |
+| TextSize           | Icon for text size adjustment            | Typography       |
+| TextSlash          | Icon for strikethrough text              | Typography       |
+| TextUnderline      | Icon for underlined text                 | Typography       |
+| ThumbsDown         | Icon for thumbs down                     | Emotions         |
+| ThumbsDownOutline  | Outline version of thumbs down icon      | Emotions         |
+| ThumbsUp           | Icon for thumbs up                       | Emotions         |
+| ThumbsUpOutline    | Outline version of thumbs up icon        | Emotions         |
+| ThumbTack          | Icon for a thumbtack                     | Office Supplies  |
+| ThumbTackOutline   | Outline version of thumbtack icon        | Office Supplies  |
+| Ticket             | Icon for a ticket                        | Entertainment    |
+| TicketOutline      | Outline version of the ticket icon       | Entertainment    |
+| ToggleHead         | Icon for a toggle head                   | UI/Controls      |
+| ToggleHeadAlt      | Alternative toggle head icon             | UI/Controls      |
+| ToggleHeadOutline  | Outline version of toggle head icon      | UI/Controls      |
+| Tools              | Icon for tools                           | Utilities        |
+| Tracking           | Icon for tracking                        | Logistics        |
+| TrashBin           | Icon for a trash bin                     | UI/Controls      |
+| TrashBinOutline    | Outline version of trash bin icon        | UI/Controls      |
+| Truck              | Icon for a truck                         | Vehicles         |
+| TruckOutline       | Outline version of the truck icon        | Vehicles         |
+| TruckClock         | Icon for a truck with a clock            | Vehicles         |
+| TruckClockOutline  | Outline version of truck clock icon      | Vehicles         |
+| Twitter            | Icon for Twitter logo                    | Social Media     |
+
+### Start with letter 'U'
+
+| **Icon Name**      | **Description**                        | **Category**    |
+| ------------------ | -------------------------------------- | --------------- |
+| Undo               | Icon for undoing an action             | UI/Controls     |
+| Upload             | Icon for uploading                     | File Management |
+| UploadOutline      | Outline version of upload icon         | File Management |
+| User               | Icon for a user                        | User Management |
+| UserAdd            | Icon for adding a new user             | User Management |
+| UserAddOutline     | Outline version of user add icon       | User Management |
+| UserCircle         | Icon for a user profile in a circle    | User Management |
+| UserCircleOutline  | Outline version of user circle icon    | User Management |
+| UserEdit           | Icon for editing user information      | User Management |
+| UserEditOutline    | Outline version of user edit icon      | User Management |
+| UserHeadset        | Icon for a user with a headset         | Communication   |
+| UserHeadsetOutline | Outline version of user headset icon   | Communication   |
+| UserOutline        | Outline version of the user icon       | User Management |
+| UserRemove         | Icon for removing a user               | User Management |
+| UserRemoveOutline  | Outline version of user remove icon    | User Management |
+| UserSetting        | Icon for user settings                 | Settings        |
+| UserSettingOutline | Outline version of user setting icon   | Settings        |
+| UsersGroup         | Icon for a group of users              | User Management |
+| UsersGroupOutline  | Outline version of users group icon    | User Management |
+| UsersOutline       | Outline version of multiple users icon | User Management |
+
+### Start with letter 'V'
+
+| **Icon Name**      | **Description**                          | **Category**         |
+| ------------------ | ---------------------------------------- | -------------------- |
+| VideoCamera        | Icon for a video camera                  | Media/Devices        |
+| VideoCameraOutline | Outline version of the video camera icon | Media/Devices        |
+| Visa               | Icon for Visa payment method             | Payment Methods      |
+| VolumeDownOutline  | Outline version of volume down icon      | Audio Controls       |
+| VolumeMute         | Icon for muting audio                    | Audio Controls       |
+| VolumeMuteOutline  | Outline version of mute audio icon       | Audio Controls       |
+| VolumeUp           | Icon for increasing audio volume         | Audio Controls       |
+| VolumeUpOutline    | Outline version of volume up icon        | Audio Controls       |
+| VolumnDown         | Icon for decreasing audio volume         | Audio Controls       |
+| Vue                | Icon for the Vue.js framework            | Framework/Technology |
+
+### Start with letter 'W'
+
+| **Icon Name**    | **Description**                        | **Category**     |
+| ---------------- | -------------------------------------- | ---------------- |
+| Wallet           | Icon for a wallet                      | Finance          |
+| WalletOutline    | Outline version of the wallet icon     | Finance          |
+| WandMagic        | Icon for a magic wand                  | Tools/Magic      |
+| WandMagicOutline | Outline version of the magic wand icon | Tools/Magic      |
+| Whatsapp         | Icon for WhatsApp                      | Social Media     |
+| Window           | Icon for a window                      | UI/Elements      |
+| WindowOutline    | Outline version of the window icon     | UI/Elements      |
+| WindowRestore    | Icon for restoring a window            | UI/Elements      |
+| Windows          | Icon for the Windows operating system  | Operating System |
+
+### Start with letter 'X'
+
+| **Icon Name** | **Description**                  | **Category** |
+| ------------- | -------------------------------- | ------------ |
+| X             | Icon representing the letter 'X' | Social Media |
+
+### Start with letter 'Y'
+
+| **Icon Name** | **Description**               | **Category** |
+| ------------- | ----------------------------- | ------------ |
+| Youtube       | Icon for the YouTube platform | Social Media |
+
+### Start with letter 'Z'
+
+| **Icon Name**  | **Description**                      | **Category** |
+| -------------- | ------------------------------------ | ------------ |
+| ZoomIn         | Icon for zooming in                  | Tools        |
+| ZoomInOutline  | Outline version of the zoom-in icon  | Tools        |
+| ZoomOut        | Icon for zooming out                 | Tools        |
+| ZoomOutOutline | Outline version of the zoom-out icon | Tools        |
 
 > **Note**: This is a sample of the icons listed. You can expand the table to include all icons from your project with their respective descriptions and categories.
 

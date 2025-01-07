@@ -18,11 +18,16 @@ module.exports = {
           loader: "babel-loader",
         },
       },
-      {
+      {     
         test: /\.svg$/,
         use: ["babel-loader", "url-loader"],
       },
     ],
+  },
+  performance: {
+    hints: "warning", // Show warnings for large files
+    maxAssetSize: 1024000, // 1 MB limit for individual assets
+    maxEntrypointSize: 1024000, // 1 MB limit for entry points
   },
   resolve: {
     extensions: [".js", ".jsx"],
